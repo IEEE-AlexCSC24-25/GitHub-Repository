@@ -2,7 +2,7 @@ Resources:
 - https://youtu.be/RGOj5yH7evk?si=8Afsd5MIkesr3HhV
 - https://docs.github.com/en/get-started
 - https://www.baeldung.com/ops/git-guide
-- https://www.udemy.com/course git-for-beginners-course/?couponCode=78C34E6128258CB2552B
+- https://www.udemy.com/course/git-for-beginners-course/?couponCode=78C34E6128258CB2552B
 - https://almdrasa.com/tracks/programming-foundations/courses/git-github/
 
 ---
